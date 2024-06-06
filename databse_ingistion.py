@@ -6,7 +6,7 @@ dbname = "real_estate_data"
 user = "root"
 password = "secret"
 host = "localhost"
-port = "8070"
+port = "5432"
 
 # Connect to the PostgreSQL database
 conn = psycopg2.connect(
